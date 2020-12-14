@@ -1,7 +1,6 @@
 # Interior App UI
 
-- [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
-- [Watch on youtube](https://youtu.be/NBZwZCqBx8o)
+
 
 ![Interior App UI](https://user-images.githubusercontent.com/16510597/85924465-a9c76180-b8bc-11ea-9069-210682b61073.jpg)
 
